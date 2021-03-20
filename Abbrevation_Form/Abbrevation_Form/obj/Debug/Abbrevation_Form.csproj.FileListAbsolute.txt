@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Sanjay_c#_Lab\Abbrevation_Form\Abbrevation_Form\bin\Debug\Abbrevation_Form.exe.config
+C:\Users\User\source\repos\Sanjay_c#_Lab\Abbrevation_Form\Abbrevation_Form\bin\Debug\Abbrevation_Form.exe
+C:\Users\User\source\repos\Sanjay_c#_Lab\Abbrevation_Form\Abbrevation_Form\bin\Debug\Abbrevation_Form.pdb
+C:\Users\User\source\repos\Sanjay_c#_Lab\Abbrevation_Form\Abbrevation_Form\obj\Debug\Abbrevation_Form.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Sanjay_c#_Lab\Abbrevation_Form\Abbrevation_Form\obj\Debug\Abbrevation_Form.Form1.resources
+C:\Users\User\source\repos\Sanjay_c#_Lab\Abbrevation_Form\Abbrevation_Form\obj\Debug\Abbrevation_Form.Properties.Resources.resources
+C:\Users\User\source\repos\Sanjay_c#_Lab\Abbrevation_Form\Abbrevation_Form\obj\Debug\Abbrevation_Form.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Sanjay_c#_Lab\Abbrevation_Form\Abbrevation_Form\obj\Debug\Abbrevation_Form.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Sanjay_c#_Lab\Abbrevation_Form\Abbrevation_Form\obj\Debug\Abbrevation_Form.exe
+C:\Users\User\source\repos\Sanjay_c#_Lab\Abbrevation_Form\Abbrevation_Form\obj\Debug\Abbrevation_Form.pdb
