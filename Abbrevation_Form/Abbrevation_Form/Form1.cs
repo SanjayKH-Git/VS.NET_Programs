@@ -16,17 +16,7 @@ namespace Abbrevation_Form
         {
             InitializeComponent();
         }
-
-        private void label1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void AbbrevationLabel_Click(object sender, EventArgs e)
-        {
-
-        }
-
+        
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
             if(e.ToString()=="Enter")
@@ -51,10 +41,8 @@ namespace Abbrevation_Form
                 }
             }
 
-
             AbbrevationLabel.Text = "Abbrevation=  " + new string(result);
             AbbrevationLabel.Visible = true;
-            //textBox1.Text = (e.GetType)ToString();
         }
     }
 }
