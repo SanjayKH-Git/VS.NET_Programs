@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Append_Arrayy\Append_Arrayy\bin\Debug\Append_Arrayy.exe.config
+C:\Users\User\source\repos\Append_Arrayy\Append_Arrayy\bin\Debug\Append_Arrayy.exe
+C:\Users\User\source\repos\Append_Arrayy\Append_Arrayy\bin\Debug\Append_Arrayy.pdb
+C:\Users\User\source\repos\Append_Arrayy\Append_Arrayy\obj\Debug\Append_Arrayy.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Append_Arrayy\Append_Arrayy\obj\Debug\Append_Arrayy.Properties.Resources.resources
+C:\Users\User\source\repos\Append_Arrayy\Append_Arrayy\obj\Debug\Append_Arrayy.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Append_Arrayy\Append_Arrayy\obj\Debug\Append_Arrayy.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Append_Arrayy\Append_Arrayy\obj\Debug\Append_Arrayy.exe
+C:\Users\User\source\repos\Append_Arrayy\Append_Arrayy\obj\Debug\Append_Arrayy.pdb
+C:\Users\User\source\repos\Append_Arrayy\Append_Arrayy\obj\Debug\Append_Arrayy.Form1.resources
