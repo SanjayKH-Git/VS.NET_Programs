@@ -20,8 +20,7 @@ namespace Quiz_Form_App
             panel1.Visible = false;
             pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
         }
-
-        
+      
         private void start_Click(object sender, EventArgs e)
         {
             prev.Visible = false;
