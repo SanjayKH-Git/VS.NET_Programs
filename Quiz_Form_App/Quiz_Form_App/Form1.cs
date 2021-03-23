@@ -90,8 +90,7 @@ namespace Quiz_Form_App
                     ans3.Text = "India";
                     ans4.Text = "England";
                     break;
-                case 5:
-                //    submit.Enabled = true;
+                case 5:         
                     Next.Text= "submit";
                     pictureBox1.Image = new Bitmap("C:\\Users\\Sanjay-PC\\source\\repos\\Sanjay_C#_Lab\\Quiz_Form_App\\Quiz_Images\\sky.png");
                     qtn.Text = "5. wWhat is the Color of Sky? ";
