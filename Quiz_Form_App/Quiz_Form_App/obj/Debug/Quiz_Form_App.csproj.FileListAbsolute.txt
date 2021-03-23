@@ -1,0 +1,9 @@
+C:\Users\Sanjay-PC\source\repos\Sanjay_C#_Lab\Quiz_Form_App\Quiz_Form_App\bin\Debug\Quiz_Form_App.exe.config
+C:\Users\Sanjay-PC\source\repos\Sanjay_C#_Lab\Quiz_Form_App\Quiz_Form_App\bin\Debug\Quiz_Form_App.exe
+C:\Users\Sanjay-PC\source\repos\Sanjay_C#_Lab\Quiz_Form_App\Quiz_Form_App\bin\Debug\Quiz_Form_App.pdb
+C:\Users\Sanjay-PC\source\repos\Sanjay_C#_Lab\Quiz_Form_App\Quiz_Form_App\obj\Debug\Quiz_Form_App.csprojAssemblyReference.cache
+C:\Users\Sanjay-PC\source\repos\Sanjay_C#_Lab\Quiz_Form_App\Quiz_Form_App\obj\Debug\Quiz_Form_App.QuizApp.resources
+C:\Users\Sanjay-PC\source\repos\Sanjay_C#_Lab\Quiz_Form_App\Quiz_Form_App\obj\Debug\Quiz_Form_App.Properties.Resources.resources
+C:\Users\Sanjay-PC\source\repos\Sanjay_C#_Lab\Quiz_Form_App\Quiz_Form_App\obj\Debug\Quiz_Form_App.csproj.GenerateResource.cache
+C:\Users\Sanjay-PC\source\repos\Sanjay_C#_Lab\Quiz_Form_App\Quiz_Form_App\obj\Debug\Quiz_Form_App.exe
+C:\Users\Sanjay-PC\source\repos\Sanjay_C#_Lab\Quiz_Form_App\Quiz_Form_App\obj\Debug\Quiz_Form_App.pdb
