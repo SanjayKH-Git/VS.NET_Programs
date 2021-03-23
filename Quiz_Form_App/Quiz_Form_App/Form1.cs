@@ -25,8 +25,7 @@ namespace Quiz_Form_App
         {
             prev.Visible = false;
             panel1.Visible = true;
-            start.Visible = false;
-            //submit.Enabled = false;
+            start.Visible = false;          
             qtn_no = 1;
             askQuestion(qtn_no);
         }
