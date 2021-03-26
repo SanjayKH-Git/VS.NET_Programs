@@ -16,13 +16,7 @@ namespace Abbrevation_Form
         {
             InitializeComponent();
         }
-        
-        private void textBox1_TextChanged(object sender, EventArgs e)
-        {
-            if(e.ToString()=="Enter")
-                abbreBtn_Click(sender, e);
-        }
-
+      
         private void abbreBtn_Click(object sender, EventArgs e)
         {
             int j = 0;            
