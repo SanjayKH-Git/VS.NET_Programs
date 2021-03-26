@@ -1,0 +1,14 @@
+C:\Users\Sanjay-PC\source\repos\Sanjay_C#_Lab\Tic Toe App\Tic Toe App\bin\Debug\Tic Toe App.exe.config
+C:\Users\Sanjay-PC\source\repos\Sanjay_C#_Lab\Tic Toe App\Tic Toe App\bin\Debug\Tic Toe App.exe
+C:\Users\Sanjay-PC\source\repos\Sanjay_C#_Lab\Tic Toe App\Tic Toe App\bin\Debug\Tic Toe App.pdb
+C:\Users\Sanjay-PC\source\repos\Sanjay_C#_Lab\Tic Toe App\Tic Toe App\obj\Debug\Tic Toe App.csprojAssemblyReference.cache
+C:\Users\Sanjay-PC\source\repos\Sanjay_C#_Lab\Tic Toe App\Tic Toe App\obj\Debug\MainWindow.g.cs
+C:\Users\Sanjay-PC\source\repos\Sanjay_C#_Lab\Tic Toe App\Tic Toe App\obj\Debug\App.g.cs
+C:\Users\Sanjay-PC\source\repos\Sanjay_C#_Lab\Tic Toe App\Tic Toe App\obj\Debug\Tic Toe App_MarkupCompile.cache
+C:\Users\Sanjay-PC\source\repos\Sanjay_C#_Lab\Tic Toe App\Tic Toe App\obj\Debug\Tic Toe App_MarkupCompile.lref
+C:\Users\Sanjay-PC\source\repos\Sanjay_C#_Lab\Tic Toe App\Tic Toe App\obj\Debug\MainWindow.baml
+C:\Users\Sanjay-PC\source\repos\Sanjay_C#_Lab\Tic Toe App\Tic Toe App\obj\Debug\Tic Toe App.g.resources
+C:\Users\Sanjay-PC\source\repos\Sanjay_C#_Lab\Tic Toe App\Tic Toe App\obj\Debug\Tic_Toe_App.Properties.Resources.resources
+C:\Users\Sanjay-PC\source\repos\Sanjay_C#_Lab\Tic Toe App\Tic Toe App\obj\Debug\Tic Toe App.csproj.GenerateResource.cache
+C:\Users\Sanjay-PC\source\repos\Sanjay_C#_Lab\Tic Toe App\Tic Toe App\obj\Debug\Tic Toe App.exe
+C:\Users\Sanjay-PC\source\repos\Sanjay_C#_Lab\Tic Toe App\Tic Toe App\obj\Debug\Tic Toe App.pdb
