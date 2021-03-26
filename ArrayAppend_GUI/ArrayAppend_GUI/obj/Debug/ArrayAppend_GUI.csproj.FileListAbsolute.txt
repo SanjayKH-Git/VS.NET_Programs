@@ -1,9 +1,0 @@
-C:\Users\Sanjay-PC\source\repos\ArrayAppend_GUI\ArrayAppend_GUI\bin\Debug\ArrayAppend_GUI.exe.config
-C:\Users\Sanjay-PC\source\repos\ArrayAppend_GUI\ArrayAppend_GUI\bin\Debug\ArrayAppend_GUI.exe
-C:\Users\Sanjay-PC\source\repos\ArrayAppend_GUI\ArrayAppend_GUI\bin\Debug\ArrayAppend_GUI.pdb
-C:\Users\Sanjay-PC\source\repos\ArrayAppend_GUI\ArrayAppend_GUI\obj\Debug\ArrayAppend_GUI.csprojAssemblyReference.cache
-C:\Users\Sanjay-PC\source\repos\ArrayAppend_GUI\ArrayAppend_GUI\obj\Debug\ArrayAppend_GUI.Form1.resources
-C:\Users\Sanjay-PC\source\repos\ArrayAppend_GUI\ArrayAppend_GUI\obj\Debug\ArrayAppend_GUI.Properties.Resources.resources
-C:\Users\Sanjay-PC\source\repos\ArrayAppend_GUI\ArrayAppend_GUI\obj\Debug\ArrayAppend_GUI.csproj.GenerateResource.cache
-C:\Users\Sanjay-PC\source\repos\ArrayAppend_GUI\ArrayAppend_GUI\obj\Debug\ArrayAppend_GUI.exe
-C:\Users\Sanjay-PC\source\repos\ArrayAppend_GUI\ArrayAppend_GUI\obj\Debug\ArrayAppend_GUI.pdb
