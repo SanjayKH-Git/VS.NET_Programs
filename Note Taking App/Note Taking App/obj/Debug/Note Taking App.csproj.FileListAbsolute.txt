@@ -1,0 +1,9 @@
+C:\Users\Sanjay-PC\source\repos\Sanjay_C#_Lab\Note Taking App\Note Taking App\bin\Debug\Note Taking App.exe.config
+C:\Users\Sanjay-PC\source\repos\Sanjay_C#_Lab\Note Taking App\Note Taking App\bin\Debug\Note Taking App.exe
+C:\Users\Sanjay-PC\source\repos\Sanjay_C#_Lab\Note Taking App\Note Taking App\bin\Debug\Note Taking App.pdb
+C:\Users\Sanjay-PC\source\repos\Sanjay_C#_Lab\Note Taking App\Note Taking App\obj\Debug\Note Taking App.csprojAssemblyReference.cache
+C:\Users\Sanjay-PC\source\repos\Sanjay_C#_Lab\Note Taking App\Note Taking App\obj\Debug\Note_Taking_App.Note_Taking_App.resources
+C:\Users\Sanjay-PC\source\repos\Sanjay_C#_Lab\Note Taking App\Note Taking App\obj\Debug\Note_Taking_App.Properties.Resources.resources
+C:\Users\Sanjay-PC\source\repos\Sanjay_C#_Lab\Note Taking App\Note Taking App\obj\Debug\Note Taking App.csproj.GenerateResource.cache
+C:\Users\Sanjay-PC\source\repos\Sanjay_C#_Lab\Note Taking App\Note Taking App\obj\Debug\Note Taking App.exe
+C:\Users\Sanjay-PC\source\repos\Sanjay_C#_Lab\Note Taking App\Note Taking App\obj\Debug\Note Taking App.pdb
