@@ -1,0 +1,9 @@
+C:\Users\Sanjay-PC\source\repos\Mouse_KeyBoard_Events\Mouse_KeyBoard_Events\bin\Debug\Mouse_KeyBoard_Events.exe.config
+C:\Users\Sanjay-PC\source\repos\Mouse_KeyBoard_Events\Mouse_KeyBoard_Events\bin\Debug\Mouse_KeyBoard_Events.exe
+C:\Users\Sanjay-PC\source\repos\Mouse_KeyBoard_Events\Mouse_KeyBoard_Events\bin\Debug\Mouse_KeyBoard_Events.pdb
+C:\Users\Sanjay-PC\source\repos\Mouse_KeyBoard_Events\Mouse_KeyBoard_Events\obj\Debug\Mouse_KeyBoard_Events.csprojAssemblyReference.cache
+C:\Users\Sanjay-PC\source\repos\Mouse_KeyBoard_Events\Mouse_KeyBoard_Events\obj\Debug\Mouse_KeyBoard_Events.Form1.resources
+C:\Users\Sanjay-PC\source\repos\Mouse_KeyBoard_Events\Mouse_KeyBoard_Events\obj\Debug\Mouse_KeyBoard_Events.Properties.Resources.resources
+C:\Users\Sanjay-PC\source\repos\Mouse_KeyBoard_Events\Mouse_KeyBoard_Events\obj\Debug\Mouse_KeyBoard_Events.csproj.GenerateResource.cache
+C:\Users\Sanjay-PC\source\repos\Mouse_KeyBoard_Events\Mouse_KeyBoard_Events\obj\Debug\Mouse_KeyBoard_Events.exe
+C:\Users\Sanjay-PC\source\repos\Mouse_KeyBoard_Events\Mouse_KeyBoard_Events\obj\Debug\Mouse_KeyBoard_Events.pdb
