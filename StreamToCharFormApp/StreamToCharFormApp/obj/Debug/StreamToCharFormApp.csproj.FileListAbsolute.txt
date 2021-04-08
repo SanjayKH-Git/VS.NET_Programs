@@ -1,0 +1,9 @@
+C:\Users\Sanjay-PC\source\repos\Sanjay_C#_Lab\StreamToCharFormApp\StreamToCharFormApp\bin\Debug\StreamToCharFormApp.exe.config
+C:\Users\Sanjay-PC\source\repos\Sanjay_C#_Lab\StreamToCharFormApp\StreamToCharFormApp\bin\Debug\StreamToCharFormApp.exe
+C:\Users\Sanjay-PC\source\repos\Sanjay_C#_Lab\StreamToCharFormApp\StreamToCharFormApp\bin\Debug\StreamToCharFormApp.pdb
+C:\Users\Sanjay-PC\source\repos\Sanjay_C#_Lab\StreamToCharFormApp\StreamToCharFormApp\obj\Debug\StreamToCharFormApp.csprojAssemblyReference.cache
+C:\Users\Sanjay-PC\source\repos\Sanjay_C#_Lab\StreamToCharFormApp\StreamToCharFormApp\obj\Debug\StreamToCharFormApp.Form1.resources
+C:\Users\Sanjay-PC\source\repos\Sanjay_C#_Lab\StreamToCharFormApp\StreamToCharFormApp\obj\Debug\StreamToCharFormApp.Properties.Resources.resources
+C:\Users\Sanjay-PC\source\repos\Sanjay_C#_Lab\StreamToCharFormApp\StreamToCharFormApp\obj\Debug\StreamToCharFormApp.csproj.GenerateResource.cache
+C:\Users\Sanjay-PC\source\repos\Sanjay_C#_Lab\StreamToCharFormApp\StreamToCharFormApp\obj\Debug\StreamToCharFormApp.exe
+C:\Users\Sanjay-PC\source\repos\Sanjay_C#_Lab\StreamToCharFormApp\StreamToCharFormApp\obj\Debug\StreamToCharFormApp.pdb
